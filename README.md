@@ -1,2 +1,5 @@
-### Hey, I'm Miranda! :wave:
-I'm a computer science student just getting started with her career in programming. 
+## Hey, I'm Miranda! :wave:
+### About Me
+> :books: Currently a student
+> :computer: Studying computer science and minoring in math
+> :palm_tree: Attending San Diego State University
